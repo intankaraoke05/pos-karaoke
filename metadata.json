@@ -1,0 +1,6 @@
+{
+  "name": "KaraokePOS Pro - Kasir & Timer Karaoke Apps Script",
+  "description": "Aplikasi kasir karaoke lengkap dengan live timer sewa room, pesanan F&B, booking LC, rekapan keuangan shift, cetak struk thermal 58mm/80mm, serta integrasi Google Apps Script.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
